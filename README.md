@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">🧑🏻‍💻 I am a BSc IT graduate from the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. Currently, I am working as a MERN Full Stack Developer, focusing on building scalable web applications and enhancing my problem solving skills. I am passionate about continuous learning, exploring new technologies and contributing to impactful digital solutions.</h2>
+<h2 align="center">🧑🏻‍💻 I am a BSc IT graduate from the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. Currently, I am working as a Software Developer, focusing on building scalable web applications and enhancing my problem solving skills. I am passionate about continuous learning, exploring new technologies and contributing to impactful digital solutions.</h2>
 
 ###
 
@@ -23,11 +23,7 @@
   <img width="15" />
   <a href="https://x.com/muniweerauk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  </a>
-  <img width="15" />
-  <a href="https://www.youtube.com/@UdulaKesaraMuniweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
-  </a>
+  </a>  
 </div>
 
 ###
